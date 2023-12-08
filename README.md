@@ -9,7 +9,7 @@ This project is a simple MongoDB Backup application that backups all collection 
 - mongodb
 
 # How to use compiled release ?
-- Download [release version](https://github.com/xnti/mongodb-backup/releases/tag/Latest).
+- Download [release version](https://github.com/xnti/mongodb-backup/releases/tag/Release).
 - Unzip it to a folder.
 - Usage: `backup.exe <mongodb_connection_uri>`
 - Downloaded collection will be same directory with the backup.exe
